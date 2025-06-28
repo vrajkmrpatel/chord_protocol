@@ -91,6 +91,7 @@ Images available under `/screenshots` show:
 ## 📜 Report
 
 Detailed documentation is available in [`docs/Project_Report.pdf`](docs/Project_Report.pdf) explaining the algorithm design, assumptions, and implementation challenges.
+Presentation pdf -->  [`docs/Project_Presentation.pdf`](docs/Project_Presentation.pdf) 
 
 ## 🤝 Contributors
 
