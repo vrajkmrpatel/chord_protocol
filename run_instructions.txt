@@ -1,0 +1,17 @@
+Pre requisite : 
+python3
+	--> command pip install python3
+Ubuntu terminal 
+	--> Virtual box or Ubuntu WSL
+
+
+Steps to execute the project...
+To create a New Ring
+python3 Node_DHT.py port1
+
+To join a Node on the existing Ring
+python3 Node_DHT.py port2 port1
+
+To Run a client
+python3 Client.py 
+	--> provide a port number to add the data.
